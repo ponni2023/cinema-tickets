@@ -136,9 +136,9 @@ export default class TicketService {
  * TODO: To be removed after testing.
  * Create an instance of TicketService and purchase tickets with sample values for testing purpose.
  */
-new TicketService().purchaseTickets(
-  1,
-  { ADULT: 10 },
-  { CHILD: 9 },
-  { INFANT: 1 }
-);
+// new TicketService().purchaseTickets(
+//   1,
+//   { ADULT: 10 },
+//   { CHILD: 9 },
+//   { INFANT: 1 }
+// );
